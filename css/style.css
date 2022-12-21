@@ -1,0 +1,246 @@
+/* Section One Style Starts From Here */
+
+.sectionOne .container nav div ul li a {
+    margin: 0 10px;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 600;
+}
+
+.sectionOne .container nav div .collapse .navbar-nav .nav-item .nav-link:hover {
+    margin: 0 10px;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 600;
+    color: #f092cb;
+}
+
+
+/* Section Two Styles Start From Here */
+
+.secTwo {
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.secTwo .container {
+    text-align: center;
+    width: 40%;
+}
+
+.secTwo .container img {
+    width: 60%;
+}
+
+.secTwo button {
+    border-radius: 50px;
+    padding: 11px 30px;
+    margin-top: 30px;
+    border: hidden;
+    color: white;
+    background-color: #f092cb;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.secTwo .container h1 span {
+    color: #f092cb;
+}
+
+.secTwo .container h1 {
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 600;
+}
+
+.secTwo .container p {
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+
+/* Media Queries */
+
+@media (max-width: 992px) {
+    .secTwo .container {
+        text-align: center;
+        width: 90%;
+    }
+}
+
+
+/* Section Three Style Starts From Here */
+
+.secThree {
+    padding: 50px 0px;
+}
+
+.secThree .container .row {
+    justify-content: space-between;
+}
+
+.secThree .container .row .col-lg-6 {
+    text-align: center;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.secThree .container .row .col-lg-6 img {
+    width: 67%;
+}
+
+.secThree .container .row button {
+    border-radius: 50px;
+    padding: 11px 30px;
+    margin-top: 30px;
+    border: hidden;
+    color: white;
+    background-color: #f092cb;
+}
+
+.secThree .container .row #firstCol h2 span {
+    color: #f092cb;
+}
+
+.secThree .container .row #firstCol {
+    text-align: start;
+}
+
+.secThree .container .row #firstCol h2 {
+    width: 60%;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 600;
+}
+
+
+/* Media Queries */
+
+@media (max-width: 992px) {
+    .secThree .container .row .col-lg-6 img {
+        width: 100%;
+    }
+}
+
+
+/* Section F Starts Here */
+
+.sectionF {
+    font-family: "Be Vietnam Pro", sans-serif;
+    padding: 50px 0px;
+}
+
+.sectionF .container .row .col-lg-6 {
+    text-align: center;
+}
+
+.sectionF .container .row .col-lg-6 img {
+    width: 67%;
+    padding-bottom: 30px;
+}
+
+.sectionF .container .row .col button {
+    border-radius: 50px;
+    padding: 11px 30px;
+    margin-top: 30px;
+    border: hidden;
+    color: white;
+    background-color: #f092cb;
+}
+
+.sectionF .container .row #secondCol h2 span {
+    color: #f092cb;
+}
+
+.sectionF .container .row #secondCol {
+    text-align: start;
+}
+
+.sectionF .container .row #secondCol h2 {
+    width: 60%;
+    font-weight: 600;
+}
+
+
+/* Media Queries */
+
+@media (max-width: 992px) {
+    .sectionF .container .row .col-lg-6 img {
+        width: 100%;
+        padding-bottom: 30px;
+    }
+}
+
+
+/* Section Four Styling Starts From Here */
+
+.secFour {
+    padding: 150px 0px;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.secFour .container {
+    text-align: center;
+}
+
+.secFour .container h2 span {
+    color: #f092cb;
+}
+
+.secFour .container h2 {
+    font-weight: 600;
+}
+
+.secFour .container button {
+    border-radius: 50px;
+    padding: 11px 30px;
+    margin-top: 30px;
+    border: hidden;
+    color: white;
+    background-color: #f092cb;
+}
+
+
+/* Section Five Styling Starts From Here */
+
+.secFive .container .row .col-xl-4 ul {
+    display: flex;
+}
+
+.secFive {
+    background: #f8f8f8;
+    padding: 50px 0px;
+    font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.secFive .container {
+    padding: 0px 40px;
+}
+
+.secFive .container .row .col-xl-4 ul li {
+    list-style-type: none;
+    padding: 0px 10px;
+}
+
+.secFive .container .row .col-xl-4 h4 {
+    font-weight: 600;
+}
+
+.secFive .container .row .col-xl-2 h4 {
+    font-weight: 600;
+}
+
+.secFive .container .row .col-lg-6 {
+    padding: 30px 0px;
+}
+
+
+/* .secFive .container .row .col-md-6{
+    text-align: center;
+}
+.secFive .container .row .col-md-6 ul{
+    justify-content: center;
+} */
+
+.secFive a {
+    color: black;
+    font-size: 20px;
+}
+
+footer {
+    background: #f8f8f8;
+    padding: 50px 0px;
+}
